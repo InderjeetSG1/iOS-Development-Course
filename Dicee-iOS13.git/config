@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = git@github.com:appbrewery/Dicee-iOS13.git
+	fetch = +refs/*:refs/*
+	mirror = true
+	pushurl = https://github.com/InderjeetSG1/iOS-Development-Course.git
